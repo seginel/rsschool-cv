@@ -21,4 +21,4 @@ for front-end development
 
 ## Language
 * Russian - native
-* English - shool and university education
+* English - school and university education
