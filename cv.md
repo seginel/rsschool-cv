@@ -8,7 +8,7 @@
 
 ## About myself
 I'm a manager. In my free time I make sites with constructors such as Wix, Tilda.
-I wand to be a good front-end developer.
+I wand to be a good front-end developer
 
 ## My skills
 * HTML (html5), CSS (less, styl, BEM)
@@ -21,3 +21,4 @@ for front-end development
 
 ## Language
 * Russian - native
+* English - shool and university education
