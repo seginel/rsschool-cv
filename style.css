@@ -4,6 +4,7 @@ html {
 
 body {
     background-color: #eee;
+    color: #000;
     margin: 0;
     padding: 0;
 }
@@ -45,8 +46,10 @@ a {
     justify-content: center;
 }
 
-code {
-    background-color: #cccccc;
+pre {
+    background-color: #cdcdcd;
+    border: 1px solid #c5c5c5;
+    color: #000;
 }
 
 ul li a {
